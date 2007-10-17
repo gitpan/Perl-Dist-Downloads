@@ -1,0 +1,26 @@
+Changes
+inc/Module/Install.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Can.pm
+inc/Module/Install/Fetch.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/Share.pm
+inc/Module/Install/Win32.pm
+inc/Module/Install/WriteAll.pm
+lib/Perl/Dist/Downloads.pm
+LICENSE
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+README
+share/binutils-2.17.50-20060824-1.tar.gz
+share/dmake-4.8-20070327-SHAY.zip
+share/gcc-core-3.4.5-20060117-1.tar.gz
+share/gcc-g++-3.4.5-20060117-1.tar.gz
+share/mingw32-make-3.81-2.tar.gz
+share/perl-5.8.8.tar.gz
+share/w32api-3.10.tar.gz
+t/01_compile.t
+t/02_main.t
+t/99_author.t
