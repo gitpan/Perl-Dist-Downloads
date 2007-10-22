@@ -20,8 +20,8 @@ share/gcc-core-3.4.5-20060117-1.tar.gz
 share/gcc-g++-3.4.5-20060117-1.tar.gz
 share/mingw-runtime-3.13.tar.gz
 share/mingw32-make-3.81-2.tar.gz
-share/perl-5.8.8.tar.gz
 share/w32api-3.10.tar.gz
 t/01_compile.t
 t/02_main.t
-t/99_author.t
+t/98_pod.t
+t/99_pmv.t
