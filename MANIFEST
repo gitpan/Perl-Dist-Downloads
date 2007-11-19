@@ -18,9 +18,16 @@ share/binutils-2.17.50-20060824-1.tar.gz
 share/dmake-4.8-20070327-SHAY.zip
 share/gcc-core-3.4.5-20060117-1.tar.gz
 share/gcc-g++-3.4.5-20060117-1.tar.gz
+share/gmp-4.2.1-vanilla.zip
+share/libiconv-1.9.2-1-bin.zip
+share/libiconv-1.9.2-1-dep.zip
+share/libiconv-1.9.2-1-lib.zip
+share/libxml2-2.6.30.win32.zip
 share/mingw-runtime-3.13.tar.gz
 share/mingw32-make-3.81-2.tar.gz
+share/pexports-0.43-1.zip
 share/w32api-3.10.tar.gz
+share/zlib-1.2.3.win32.zip
 t/01_compile.t
 t/02_main.t
 t/98_pod.t
